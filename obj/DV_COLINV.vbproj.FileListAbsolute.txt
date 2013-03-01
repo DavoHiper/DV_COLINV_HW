@@ -1,0 +1,175 @@
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DV_COLINV.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DV_COLINV.frmInventario.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DV_COLINV.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DV_COLINV.Resources.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DV_COLINV.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DV_COLINV.frmInventario.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DV_COLINV.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DV_COLINV.Resources.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DV_COLINV.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.frmInventario.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.Resources.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Debug\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Debug\DAVO Coleta Inventario.pdb
+D:\DAVO\VisualStudio\Projects\DV_COLINV\bin\Debug\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DV_COLINV.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DV_COLINV.frmInventario.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DV_COLINV.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DV_COLINV.Resources.resources
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DV_COLINV.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DAVO Coleta Inventario.exe
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DAVO Coleta Inventario.xml
+D:\DAVO\VisualStudio\Projects\DV_COLINV\obj\Debug\DAVO Coleta Inventario.pdb
+C:\TRANSF\DV_COLINV\DV_COLINV\bin\Debug\DAVO Coleta Inventario.exe
+C:\TRANSF\DV_COLINV\DV_COLINV\bin\Debug\DAVO Coleta Inventario.pdb
+C:\TRANSF\DV_COLINV\DV_COLINV\bin\Debug\DAVO Coleta Inventario.xml
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\ResolveAssemblyReference.cache
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DV_COLINV.frmInicio.resources
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DV_COLINV.frmInventario.resources
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DV_COLINV.LidosInv.resources
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DV_COLINV.Resources.resources
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DV_COLINV.vbproj.GenerateResource.Cache
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DAVO Coleta Inventario.exe
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DAVO Coleta Inventario.xml
+C:\TRANSF\DV_COLINV\DV_COLINV\obj\Debug\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DV_COLINV.frmInicio.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DV_COLINV.LidosInv.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Debug\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Debug\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Debug\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Debug\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Coletor\DV_COLINV\bin\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DV_COLINV.frmInicio.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DV_COLINV.LidosInv.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Coletor\DV_COLINV\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.exe
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.pdb
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.xml
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\ResolveAssemblyReference.cache
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInicio.resources
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInventario.resources
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.LidosInv.resources
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Resources.resources
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.exe
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.xml
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas032\dbx\PRD\INV\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Calc.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.exe
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.pdb
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.xml
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\ResolveAssemblyReference.cache
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Calc.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInicio.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInventario.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.LidosInv.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Resources.resources
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.exe
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.xml
+T:\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\bin\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Calc.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInicio.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.LidosInv.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV.bkpaalves.20101213\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\bin\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.Calc.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\PROJETOS\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DAVO Coleta Inventario.pdb
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.exe
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.pdb
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.xml
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\ResolveAssemblyReference.cache
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.Calc.resources
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.frmInicio.resources
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.frmInventario.resources
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.LidosInv.resources
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.Resources.resources
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.exe
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.xml
+T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Debug\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Debug\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Debug\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.Calc.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.frmInicio.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.LidosInv.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Debug\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\bin\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\ResolveAssemblyReference.cache
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.Calc.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.frmInicio.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.frmInventario.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.LidosInv.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.Resources.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DV_COLINV.vbproj.GenerateResource.Cache
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.exe
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.xml
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV_SKORPIO\obj\Release\DAVO Coleta Inventario.pdb
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.frmInfoInv.resources
+\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\obj\Release\DV_COLINV.frmInicio.resources

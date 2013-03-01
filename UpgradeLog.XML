@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DV_COLINV">
+</Property><Property Name="Solution File" Value="\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\DV_COLINV.sln">
+</Property><Property Name="User Options File" Value="\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\DV_COLINV.suo">
+</Property><Property Name="Date" Value="sexta-feira, 11 de janeiro de 2013">
+</Property><Property Name="Time" Value="14:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DV_COLINV.sln" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\DV_COLINV.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DV_COLINV.suo" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\DV_COLINV.suo">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project file successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\DV_COLINV.vbproj">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj.user" Description="Project user file successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\DV_COLINV.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.Designer.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Calc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Calc.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.Designer.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\InfoInv.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\InfoInv.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.Designer.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inicio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inicio.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.Designer.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inventario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inventario.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Modulo1.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Modulo1.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="ClassDiagram1.cd" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.resx" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Calc.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.resx" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\InfoInv.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.resx" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inicio.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.resx" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\Inventario.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.resx" Description="File successfully backed up as \\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="The project file '\\oraas012\Tecnologia\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\DV_COLINV.vbproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="DV_COLINV.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DV_COLINV.sln" Description="Converted">
+</Event></UpgradeLog>

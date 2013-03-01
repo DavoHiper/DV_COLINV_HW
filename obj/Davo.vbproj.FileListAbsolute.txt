@@ -1,0 +1,66 @@
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Debug\Davo.exe
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Debug\Davo.pdb
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Debug\Davo.xml
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.Inventario_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.LidosInv.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.MenuPrincipal_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.Resources.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.Sobre_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.vbproj.GenerateResource.Cache
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.exe
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.xml
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Debug\Davo.pdb
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Release\Davo.exe
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Release\Davo.pdb
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\bin\Release\Davo.xml
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.Inventario_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.LidosInv.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.MenuPrincipal_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.Resources.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.Sobre_FRM.resources
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.vbproj.GenerateResource.Cache
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.exe
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.xml
+C:\Users\Nozaki\Documents\Visual Studio 2005\Projects\UDP\ClientServerNET\Davo\Davo\obj\Release\Davo.pdb
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.Inventario_FRM.resources
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.LidosInv.resources
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.MenuPrincipal_FRM.resources
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.Resources.resources
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.vbproj.GenerateResource.Cache
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.exe
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.xml
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.pdb
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\bin\Release\Davo.exe
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\bin\Release\Davo.pdb
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\bin\Release\Davo.xml
+C:\Users\ralfieri\Documents\Davo\Davo\Davo\obj\Release\Davo.Inicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\Davo.exe
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\Davo.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Release\Davo.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.Resources.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.exe
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\Davo.exe
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\Davo.pdb
+D:\DAVO\VisualStudio\Projects\Davo\bin\Debug\Davo.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\ResolveAssemblyReference.cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.Inicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.Inventario_FRM.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.LidosInv.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.MenuPrincipal_FRM.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.Resources.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.vbproj.GenerateResource.Cache
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.exe
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.xml
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.pdb
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Release\Davo.frmInventario.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.frmInicio.resources
+D:\DAVO\VisualStudio\Projects\Davo\obj\Debug\Davo.frmInventario.resources

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DV_COLINV">
+</Property><Property Name="Solution File" Value="T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\DV_COLINV.sln">
+</Property><Property Name="Date" Value="quinta-feira, 21 de fevereiro de 2013">
+</Property><Property Name="Time" Value="15:57:15">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project file successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\DV_COLINV.vbproj">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj.user" Description="Project user file successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\DV_COLINV.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.Designer.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Calc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Calc.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.Designer.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\InfoInv.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\InfoInv.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.Designer.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inicio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inicio.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.Designer.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inventario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inventario.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Modulo1.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Modulo1.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="ClassDiagram1.cd" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.resx" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Calc.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.resx" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\InfoInv.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.resx" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inicio.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.resx" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\Inventario.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.resx" Description="File successfully backed up as T:\Funcional\Projetos\COLETOR\SOFTWARE\VisualStudio\Projects\DV_COLINV\Backup4\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Converted">
+</Event></UpgradeLog>
