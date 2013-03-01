@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DV_COLINV">
+</Property><Property Name="Solution File" Value="C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\DV_COLINV.sln">
+</Property><Property Name="Date" Value="sexta-feira, 1 de março de 2013">
+</Property><Property Name="Time" Value="09:36:34">
+</Property><Property Name="Log Number" Value="6">
+</Property></Properties><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project file successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\DV_COLINV.vbproj">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj.user" Description="Project user file successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\DV_COLINV.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.Designer.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Calc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Calc.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.Designer.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\InfoInv.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\InfoInv.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.Designer.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inicio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inicio.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.Designer.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inventario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inventario.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Modulo1.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Modulo1.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Calc.resx" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Calc.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="InfoInv.resx" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\InfoInv.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inicio.resx" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inicio.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="Inventario.resx" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\Inventario.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Rodrigo\Documents\Visual Studio 2005\Projects\DV_COLINV_HW\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DV_COLINV" Source="DV_COLINV.vbproj" Description="Converted">
+</Event></UpgradeLog>
